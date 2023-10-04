@@ -16,19 +16,4 @@ hr{
   height: 100vh !important;
 }
 
-.btn-xl{
-  background-color: #fff;
-  border-color: #00b7ff;
-  columns: #00b7ff;
-  padding: 1rem 2rem;
-  border-radius: 300px;
-  font-weight: bold;
-  color: #01445f;
-}
 
-.btn-xl:hover{
-  background-color: #01445f;
-  color: #fff;
-  border-color: #01445f;
-
-}
