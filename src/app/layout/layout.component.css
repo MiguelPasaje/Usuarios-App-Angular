@@ -5,9 +5,11 @@ p{
 }
 
 hr{
-  border-color: #00b7ff;
+  border-color: #000000;
   border-width: 6px;
-  max-width: 65px;
+  max-width: 100px;
+  margin: auto;
+  padding: 10px;
 }
 .layout{
   background-size: cover;
